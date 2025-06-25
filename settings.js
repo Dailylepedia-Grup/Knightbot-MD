@@ -3,7 +3,7 @@ const settings = {
   author: '‎',
   botName: "PT. Dailylepedia Grup Sejahtera",
   botOwner: 'M. Tri Hamdani', // Your name
-  ownerNumber: '6285183012695', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '6282164961900', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
