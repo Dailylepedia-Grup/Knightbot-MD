@@ -16,7 +16,7 @@ global.APIs = {
 
 global.APIKeys = {
     'https://api.xteam.xyz': 'd90a9e986e18778b',
-    'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
+    'https://api.lolhuman.xyz': '81be3187e93c0ce5b65a0551',
     'https://api.neoxr.my.id': 'yourkey',
     'https://violetics.pw': 'beta',
     'https://zenzapis.xyz': 'yourkey',
