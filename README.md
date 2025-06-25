@@ -117,7 +117,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mruniquehacker/Knightbot-MD.git
+    git clone https://github.com/Dailylepedia-Grup/Knightbot-MD
     cd Knightbot-MD
     ```
 
